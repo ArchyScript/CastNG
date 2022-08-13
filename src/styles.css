@@ -1,0 +1,14 @@
+.hero {
+    /* background: url('https://netrepeneurs.com/assets/img/banner/banner1.png') no-repeat top center; */
+    background: url('./img/header-banner.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /* height: 90vh; */
+}
+
+.splide__slide img {
+    width: 100%;
+    height: auto;
+}
