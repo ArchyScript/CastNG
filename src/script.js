@@ -96,7 +96,7 @@ const handleNavLinks = async () => {
         </li>
     `
     nav_link_mobile.innerHTML += `
-        <div title="${nav_link.title}" class="nav_link_mobile_link text-purple-200   block w-full text-center  hover:text-white  py-3 sm:py-4 px-1 sm:px-2 font-semibold text-xl sm:text-2xl">
+        <div title="${nav_link.title}" class="nav_link_mobile_link text-purple-200   block w-full text-center  hover:text-white  py-2 sm:py-3 px-1 sm:px-2 font-semibold text-xl sm:text-2xl">
             <a href="#" class="text-2xl">
                 ${nav_link.title}
             </a>
